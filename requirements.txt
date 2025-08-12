@@ -1,0 +1,8 @@
+pandas
+torch
+transformers
+kagglehub
+scikit-learn
+seaborn
+matplotlib
+ipykernel
